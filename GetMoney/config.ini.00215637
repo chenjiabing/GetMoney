@@ -1,0 +1,8 @@
+[SYS]
+BrokerID=8050
+InvestorId=00215637
+Password=117371
+FrontAddrT=10.253.46.91:30778
+
+[PARAMETERS]
+Contract=IF1506
